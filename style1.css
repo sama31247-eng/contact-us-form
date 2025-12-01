@@ -1,0 +1,15 @@
+.box{
+    height: 1200px;
+    width: 510px;
+    font-size: 2em;
+    margin: 500px;
+    margin-top: 60px;
+    border-radius: 10px;
+
+}
+#box1{
+    background-color:white;
+}
+
+
+   
